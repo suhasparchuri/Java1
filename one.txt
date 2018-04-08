@@ -1,1 +1,3 @@
 First Document
+The document has been changed and ready to commit the second time.
+
